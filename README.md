@@ -2,7 +2,7 @@
 Review y configuración del DIATONE 2019 GT R349.  
 
 En este post se analizará el DIATONE 2019 GT R349, un buen RTF de 3" de la marca DIATONE.  
-https://imgaz.staticbg.com/images/oaupload/banggood/images/3A/B4/467d5b89-2aa2-49b9-87cd-185342272b52.jpg.webp
+<img src="https://imgaz.staticbg.com/images/oaupload/banggood/images/3A/B4/467d5b89-2aa2-49b9-87cd-185342272b52.jpg.webp">
 
 A continuación se detallan las especificaciones mas relevantes:    
 Peso: 130g  
